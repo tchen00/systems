@@ -1,0 +1,3 @@
+[submodule "03_euler"]
+	path = 03_euler
+	url = https://github.com/mks65/euler-tchen00.git
