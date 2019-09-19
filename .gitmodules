@@ -1,3 +1,6 @@
 [submodule "03_euler"]
 	path = 03_euler
 	url = https://github.com/mks65/euler-tchen00.git
+[submodule "lessons"]
+	path = lessons
+	url = https://github.com/mks65/lessons.git
