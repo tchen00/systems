@@ -4,3 +4,6 @@
 [submodule "lessons"]
 	path = lessons
 	url = https://github.com/mks65/lessons.git
+[submodule "09_array_swap"]
+	path = 09_array_swap
+	url = https://github.com/mks65/lessons.git
